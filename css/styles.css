@@ -1,14 +1,10 @@
 h1 {
   color: darkred;
-  text-align: center;
-
 }
 
 h2 {
   font-style: italic;
-  text-align: center;
   color: red;
-
 }
 
   p {
@@ -18,4 +14,6 @@ h2 {
 
 body {
   background-color: salmon;
+  font-family: sans-serif;
+  text-align: center;
 }
